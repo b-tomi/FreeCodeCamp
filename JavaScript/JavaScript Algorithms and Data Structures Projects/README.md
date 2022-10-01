@@ -2,7 +2,7 @@
 **[JavaScript Algorithms and Data Structures Projects](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures#javascript-algorithms-and-data-structures-projects)**
 
 ### [Palindrome Checker](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/palindrome-checker)
-* Solution: Palindrome Checker
+* Solution: [Palindrome Checker](./Palindrome%20Checker/palindrome.js)
 
 ### [Roman Numeral Converter](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/roman-numeral-converter)
 * Solution: Roman Numeral Converter
