@@ -5,7 +5,7 @@
 * Solution: [Palindrome Checker](./Palindrome%20Checker/palindrome.js)
 
 ### [Roman Numeral Converter](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/roman-numeral-converter)
-* Solution: Roman Numeral Converter
+* Solution: [Roman Numeral Converter](./Roman%20Numeral%20Converter/convert.js)
 
 ### [Caesars Cipher](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/caesars-cipher)
 * Solution: Caesars Cipher
