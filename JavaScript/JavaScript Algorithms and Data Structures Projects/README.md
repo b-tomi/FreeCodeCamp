@@ -15,3 +15,5 @@
 
 ### [Cash Register](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register)
 * Solution: [Cash Register](./Cash%20Register/register.js)
+
+# [Certificate at freecodecamp.org](https://www.freecodecamp.org/certification/btomi/javascript-algorithms-and-data-structures)

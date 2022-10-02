@@ -1,5 +1,5 @@
 # freeCodeCamp Course Projects
-**freeCodeCamp Course Projects**
+**[freeCodeCamp](https://www.freecodecamp.org/) Course Projects**
 
 ## License
 
