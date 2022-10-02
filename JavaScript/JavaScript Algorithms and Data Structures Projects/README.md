@@ -11,7 +11,7 @@
 * Solution: [Caesars Cipher](./Caesars%20Cipher/caesars%2Cjs)
 
 ### [Telephone Number Validator](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/telephone-number-validator)
-* Solution: Telephone Number Validator
+* Solution: [Telephone Number Validator](./Telephone%20Number%20Validator/phone.js)
 
 ### [Cash Register](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register)
-* Solution: Cash Register
+* Solution: [Cash Register](./Cash%20Register/register.js)
